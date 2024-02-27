@@ -1,4 +1,4 @@
-# LIBER COMPONENTS 
+# LIBER COMPONENTS (deprecated)
 ### React Components Bundle & Build System
 #### :rabbit2: whiterabbit
 ***
